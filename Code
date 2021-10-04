@@ -1,0 +1,2 @@
+touch j{1..50}.txt
+rename 's/j/Madhurjya_{j}/' *
